@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ahmed Badr</h1>
 <h3 align="center">Enthusiastic MTI Fresh Graduate in the field of Computer Science with a passion for Technology.</h3>
 
-- 🌱 I’m currently learning **AWS Cloud DevOps**
+- 🌱 I’m currently learning **DevOps Engineer**
 
 - 👨‍💻 All of my projects are available at [https://github.com/ahmed8badr](https://github.com/ahmed8badr)
 
